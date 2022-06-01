@@ -1,0 +1,38 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>1. Connecting the Controller</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36718</md:content-id>
+  <md:title>1. Connecting the Controller</md:title>
+  <md:abstract/>
+  <md:uuid>6114b1d0-4b02-4b94-873f-9abd195d636d</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-648"><title>Connecting the Fischertechnik Robo Controller</title><para id="eip-842">
+Insert paragraph text here.
+</para></section><para id="eip-976"><media id="yt-media1" display="block" alt="video on circuits 1">
+  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/9w1FfeBS5KE?fs=1&amp;rel=0" width="425" height="344">
+   <param name="allowscriptaccess" value="always"/>
+   <param name="allowsfullscreen" value="true"/>
+  </flash>
+ </media></para><section id="eip-778"><title>Connecting Lights and Motors to the Fischertechnik Robo Controller</title><para id="eip-178"><media id="yt-media2" display="block" alt="video on circuits 1">
+  <flash id="yt-video2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/xcYFHaKKaqI?fs=1&amp;rel=0" width="425" height="344">
+   <param name="allowscriptaccess" value="always"/>
+   <param name="allowsfullscreen" value="true"/>
+  </flash>
+ </media>
+</para></section><section id="eip-795"><title>Connecting buttons to the Fischertechnik Robo Controller</title><para id="eip-660">
+Insert paragraph text here.
+</para></section><para id="delete_me"><media id="yt-media3" display="block" alt="video on circuits 1">
+  <flash id="yt-video3" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/9w1FfeBS5KE?fs=1&amp;rel=0" width="425" height="344">
+   <param name="allowscriptaccess" value="always"/>
+   <param name="allowsfullscreen" value="true"/>
+  </flash>
+ </media>
+
+
+</para>
+</content>
+
+</document>

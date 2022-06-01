@@ -1,0 +1,36 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>2. First programs in Robo Pro</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36719</md:content-id>
+  <md:title>2. First programs in Robo Pro</md:title>
+  <md:abstract/>
+  <md:uuid>dd62b25b-347a-47e0-b72c-0045c220fa00</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-771"><title>First steps in Robo Pro</title><media id="yt-media4" display="block" alt="video on circuits 1">
+  <flash id="yt-video4" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/0PIvemFUGmM?fs=1&amp;rel=0" width="425" height="344">
+   <param name="allowscriptaccess" value="always"/>
+   <param name="allowsfullscreen" value="true"/>
+  </flash>
+ </media>
+
+
+</section><section id="eip-990"><title>Controlling Motors and Outputs in Robo Pro</title><media id="yt-media8" display="block" alt="video on circuits 1">
+  <flash id="yt-video8" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/1LsFVx6ZEPw?fs=1&amp;rel=0" width="425" height="344">
+   <param name="allowscriptaccess" value="always"/>
+   <param name="allowsfullscreen" value="true"/>
+  </flash>
+ </media>
+</section><section id="eip-754"><title>Controlling Buttons and Inputs in Robo Pro</title><para id="eip-947"><media id="yt-media7" display="block" alt="video on circuits 1">
+  <flash id="yt-video7" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/ZcmLkIL6w1w?fs=1&amp;rel=0" width="425" height="344">
+   <param name="allowscriptaccess" value="always"/>
+   <param name="allowsfullscreen" value="true"/>
+  </flash>
+ </media></para></section><para id="delete_me">
+     <!-- Insert module text here -->
+  </para>
+</content>
+
+</document>
